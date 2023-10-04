@@ -1,8 +1,12 @@
-# React + Vite
+# Site de Receitas com React e Free Meal API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um site de receitas interativo desenvolvido em React que permite aos usuários explorar e descobrir uma variedade de receitas deliciosas. Ele utiliza a API "Free Meal API" para obter informações sobre as receitas, como ingredientes, instruções de preparo, imagens e muito mais.
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Tecnologias Utilizadas:
+React: Para o desenvolvimento da interface do usuário dinâmica e reativa.
+Axios: Para fazer solicitações à API "Free Meal API".
+HTML e CSS: Para estruturar e estilizar as páginas.
+Git e GitHub: Para controle de versão e hospedagem do código-fonte.
+
