@@ -6,6 +6,6 @@ Este projeto é um site de receitas interativo desenvolvido em React que permite
 # Tecnologias Utilizadas:
 - React: Para o desenvolvimento da interface do usuário dinâmica e reativa.
 - Axios: Para fazer solicitações à API "Free Meal API".
-- HTML e CSS: Para estruturar e estilizar as páginas.
+- HTML e Tailwind CSS: Para estruturar e estilizar as páginas.
 - Git e GitHub: Para controle de versão e hospedagem do código-fonte.
 
